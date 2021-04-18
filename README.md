@@ -1,11 +1,11 @@
-# Test_Automation
+# Test Automation
 Required things as I test my project over java;
 - Junit for Java,
 - Selenium WebDriver library,
 - Driver library must be downloaded for the browser you want to test. (I tested on google chrome (version 90.0.44 ..) first, let's download chromedriver.exe file from the link below and import it into the project)
 Link:https://chromedriver.chromium.org/downloads
 
-# ALL PROCESS
+# All Process
 - www.gittigidiyor.com website opens.
 - It is checked that the home page is opened. Login to the site
 - Login process is controlled.
